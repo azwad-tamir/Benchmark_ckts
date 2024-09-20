@@ -1,0 +1,983 @@
+****************************************
+Report : lib_cell
+Version: R-2020.09-SP1
+Date   : Tue Mar  2 15:25:41 2021
+****************************************
+
+full_name                               area pin_count is_sequential design_type
+------------------------------- ------------ --------- ------------- -----------
+cfet6bp_3d/INV_X1n1             0.0118800000         2 false         lib_cell   
+cfet6bp_3d/BUF_X1n1             0.0178200000         2 false         lib_cell   
+cfet6bp_3d/INV_X2n1             0.0178200000         2 false         lib_cell   
+cfet6bp_3d/NAND2_X1n1           0.0178200000         3 false         lib_cell   
+cfet6bp_3d/NOR2_X1n1            0.0178200000         3 false         lib_cell   
+cfet6bp_3d/AND2_X1n1            0.0237600000         3 false         lib_cell   
+cfet6bp_3d/AOI21_X1n1           0.0237600000         4 false         lib_cell   
+cfet6bp_3d/BUF_X2n1             0.0237600000         2 false         lib_cell   
+cfet6bp_3d/NAND2B_X1n1          0.0237600000         3 false         lib_cell   
+cfet6bp_3d/NAND3_X1n1           0.0237600000         4 false         lib_cell   
+cfet6bp_3d/NOR2B_X1n1           0.0237600000         3 false         lib_cell   
+cfet6bp_3d/NOR3_X1n1            0.0237600000         4 false         lib_cell   
+cfet6bp_3d/OAI21_X1n1           0.0237600000         4 false         lib_cell   
+cfet6bp_3d/OR2_X1n1             0.0237600000         3 false         lib_cell   
+cfet6bp_3d/AND2_X2n1            0.0297000000         3 false         lib_cell   
+cfet6bp_3d/AO21A1AI2_X1n1       0.0297000000         5 false         lib_cell   
+cfet6bp_3d/AO21B_X1n1           0.0297000000         4 false         lib_cell   
+cfet6bp_3d/AO21_X1n1            0.0356400000         4 false         lib_cell   
+cfet6bp_3d/AOI211_X1n1          0.0297000000         5 false         lib_cell   
+cfet6bp_3d/AOI22_X1n1           0.0297000000         5 false         lib_cell   
+cfet6bp_3d/INV_X4n1             0.0297000000         2 false         lib_cell   
+cfet6bp_3d/NAND2_X2n1           0.0297000000         3 false         lib_cell   
+cfet6bp_3d/NOR2_X2n1            0.0297000000         3 false         lib_cell   
+cfet6bp_3d/OA21A1OI2_X1n1       0.0297000000         5 false         lib_cell   
+cfet6bp_3d/OA21B_X1n1           0.0297000000         4 false         lib_cell   
+cfet6bp_3d/OA21_X1n1            0.0356400000         4 false         lib_cell   
+cfet6bp_3d/OAI211_X1n1          0.0297000000         5 false         lib_cell   
+cfet6bp_3d/OAI22_X1n1           0.0297000000         5 false         lib_cell   
+cfet6bp_3d/OR2_X2n1             0.0297000000         3 false         lib_cell   
+cfet6bp_3d/AO211_X1n1           0.0415800000         5 false         lib_cell   
+cfet6bp_3d/AO21_X2n1            0.0356400000         4 false         lib_cell   
+cfet6bp_3d/AO22_X1n1            0.0356400000         5 false         lib_cell   
+cfet6bp_3d/BUF_X4n1             0.0356400000         2 false         lib_cell   
+cfet6bp_3d/MXIT2_X1n1           0.0356400000         4 false         lib_cell   
+cfet6bp_3d/NAND2B_X2n1          0.0356400000         3 false         lib_cell   
+cfet6bp_3d/NOR2B_X2n1           0.0356400000         3 false         lib_cell   
+cfet6bp_3d/OA211_X1n1           0.0415800000         5 false         lib_cell   
+cfet6bp_3d/OA21_X2n1            0.0356400000         4 false         lib_cell   
+cfet6bp_3d/OA22_X1n1            0.0356400000         5 false         lib_cell   
+cfet6bp_3d/XNOR2_X1n1           0.0356400000         3 false         lib_cell   
+cfet6bp_3d/XOR2_X1n1            0.0356400000         3 false         lib_cell   
+cfet6bp_3d/AO211_X2n1           0.0415800000         5 false         lib_cell   
+cfet6bp_3d/AO21B_X2n1           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/AO22_X2n1            0.0415800000         5 false         lib_cell   
+cfet6bp_3d/AOI21_X2n1           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/MXT2_X1n1            0.0415800000         4 false         lib_cell   
+cfet6bp_3d/NAND3_X2n1           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/NOR3_X2n1            0.0415800000         4 false         lib_cell   
+cfet6bp_3d/OA211_X2n1           0.0415800000         5 false         lib_cell   
+cfet6bp_3d/OA21B_X2n1           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/OA22_X2n1            0.0415800000         5 false         lib_cell   
+cfet6bp_3d/OAI21_X2n1           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/LATNQ_X1n1           0.0534600000         3 true          lib_cell   
+cfet6bp_3d/LATQ_X1n1            0.0534600000         3 true          lib_cell   
+cfet6bp_3d/MXT2_X2n1            0.0475200000         4 false         lib_cell   
+cfet6bp_3d/AO21A1AI2_X2n1       0.0534600000         5 false         lib_cell   
+cfet6bp_3d/AOI211_X2n1          0.0534600000         5 false         lib_cell   
+cfet6bp_3d/AOI22_X2n1           0.0534600000         5 false         lib_cell   
+cfet6bp_3d/INV_X8n1             0.0534600000         2 false         lib_cell   
+cfet6bp_3d/LATNQ_X2n1           0.0534600000         3 true          lib_cell   
+cfet6bp_3d/LATQ_X2n1            0.0534600000         3 true          lib_cell   
+cfet6bp_3d/NAND2_X4n1           0.0534600000         3 false         lib_cell   
+cfet6bp_3d/NOR2_X4n1            0.0534600000         3 false         lib_cell   
+cfet6bp_3d/OA21A1OI2_X2n1       0.0534600000         5 false         lib_cell   
+cfet6bp_3d/OAI211_X2n1          0.0534600000         5 false         lib_cell   
+cfet6bp_3d/OAI22_X2n1           0.0534600000         5 false         lib_cell   
+cfet6bp_3d/MXIT2_X2n1           0.0594000000         4 false         lib_cell   
+cfet6bp_3d/XNOR2_X2n1           0.0594000000         3 false         lib_cell   
+cfet6bp_3d/XOR2_X2n1            0.0594000000         3 false         lib_cell   
+cfet6bp_3d/BUF_X8n1             0.0653400000         2 false         lib_cell   
+cfet6bp_3d/PREICG_X1n1          0.0772200000         5 true          lib_cell   
+cfet6bp_3d/PREICG_X2n1          0.0772200000         5 true          lib_cell   
+cfet6bp_3d/NAND3_X4n1           0.0772200000         4 false         lib_cell   
+cfet6bp_3d/NOR3_X4n1            0.0772200000         4 false         lib_cell   
+cfet6bp_3d/ADDF_X1n1            0.0950400000         5 false         lib_cell   
+cfet6bp_3d/SDFFQA_X1n1          0.1069200000         5 true          lib_cell   
+cfet6bp_3d/SDFFQA_X2n1          0.1069200000         5 true          lib_cell   
+cfet6bp_3d/SDFFRPQA_X1n1        0.1247400000         6 true          lib_cell   
+cfet6bp_3d/SDFFSQA_X1n1         0.1247400000         6 true          lib_cell   
+cfet6bp_3d/SDFFRPQA_X2n1        0.1247400000         6 true          lib_cell   
+cfet6bp_3d/SDFFSQA_X2n1         0.1247400000         6 true          lib_cell   
+cfet6bp_3d/INV_X1p1             0.0118800000         2 false         lib_cell   
+cfet6bp_3d/BUF_X1p1             0.0178200000         2 false         lib_cell   
+cfet6bp_3d/INV_X2p1             0.0178200000         2 false         lib_cell   
+cfet6bp_3d/NAND2_X1p1           0.0178200000         3 false         lib_cell   
+cfet6bp_3d/NOR2_X1p1            0.0178200000         3 false         lib_cell   
+cfet6bp_3d/AND2_X1p1            0.0237600000         3 false         lib_cell   
+cfet6bp_3d/AOI21_X1p1           0.0237600000         4 false         lib_cell   
+cfet6bp_3d/BUF_X2p1             0.0237600000         2 false         lib_cell   
+cfet6bp_3d/NAND2B_X1p1          0.0237600000         3 false         lib_cell   
+cfet6bp_3d/NAND3_X1p1           0.0237600000         4 false         lib_cell   
+cfet6bp_3d/NOR2B_X1p1           0.0237600000         3 false         lib_cell   
+cfet6bp_3d/NOR3_X1p1            0.0237600000         4 false         lib_cell   
+cfet6bp_3d/OAI21_X1p1           0.0237600000         4 false         lib_cell   
+cfet6bp_3d/OR2_X1p1             0.0237600000         3 false         lib_cell   
+cfet6bp_3d/AND2_X2p1            0.0297000000         3 false         lib_cell   
+cfet6bp_3d/AO21A1AI2_X1p1       0.0297000000         5 false         lib_cell   
+cfet6bp_3d/AO21B_X1p1           0.0297000000         4 false         lib_cell   
+cfet6bp_3d/AO21_X1p1            0.0356400000         4 false         lib_cell   
+cfet6bp_3d/AOI211_X1p1          0.0297000000         5 false         lib_cell   
+cfet6bp_3d/AOI22_X1p1           0.0297000000         5 false         lib_cell   
+cfet6bp_3d/INV_X4p1             0.0297000000         2 false         lib_cell   
+cfet6bp_3d/NAND2_X2p1           0.0297000000         3 false         lib_cell   
+cfet6bp_3d/NOR2_X2p1            0.0297000000         3 false         lib_cell   
+cfet6bp_3d/OA21A1OI2_X1p1       0.0297000000         5 false         lib_cell   
+cfet6bp_3d/OA21B_X1p1           0.0297000000         4 false         lib_cell   
+cfet6bp_3d/OA21_X1p1            0.0356400000         4 false         lib_cell   
+cfet6bp_3d/OAI211_X1p1          0.0297000000         5 false         lib_cell   
+cfet6bp_3d/OAI22_X1p1           0.0297000000         5 false         lib_cell   
+cfet6bp_3d/OR2_X2p1             0.0297000000         3 false         lib_cell   
+cfet6bp_3d/AO211_X1p1           0.0415800000         5 false         lib_cell   
+cfet6bp_3d/AO21_X2p1            0.0356400000         4 false         lib_cell   
+cfet6bp_3d/AO22_X1p1            0.0356400000         5 false         lib_cell   
+cfet6bp_3d/BUF_X4p1             0.0356400000         2 false         lib_cell   
+cfet6bp_3d/MXIT2_X1p1           0.0356400000         4 false         lib_cell   
+cfet6bp_3d/NAND2B_X2p1          0.0356400000         3 false         lib_cell   
+cfet6bp_3d/NOR2B_X2p1           0.0356400000         3 false         lib_cell   
+cfet6bp_3d/OA211_X1p1           0.0415800000         5 false         lib_cell   
+cfet6bp_3d/OA21_X2p1            0.0356400000         4 false         lib_cell   
+cfet6bp_3d/OA22_X1p1            0.0356400000         5 false         lib_cell   
+cfet6bp_3d/XNOR2_X1p1           0.0356400000         3 false         lib_cell   
+cfet6bp_3d/XOR2_X1p1            0.0356400000         3 false         lib_cell   
+cfet6bp_3d/AO211_X2p1           0.0415800000         5 false         lib_cell   
+cfet6bp_3d/AO21B_X2p1           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/AO22_X2p1            0.0415800000         5 false         lib_cell   
+cfet6bp_3d/AOI21_X2p1           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/MXT2_X1p1            0.0415800000         4 false         lib_cell   
+cfet6bp_3d/NAND3_X2p1           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/NOR3_X2p1            0.0415800000         4 false         lib_cell   
+cfet6bp_3d/OA211_X2p1           0.0415800000         5 false         lib_cell   
+cfet6bp_3d/OA21B_X2p1           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/OA22_X2p1            0.0415800000         5 false         lib_cell   
+cfet6bp_3d/OAI21_X2p1           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/LATNQ_X1p1           0.0534600000         3 true          lib_cell   
+cfet6bp_3d/LATQ_X1p1            0.0534600000         3 true          lib_cell   
+cfet6bp_3d/MXT2_X2p1            0.0475200000         4 false         lib_cell   
+cfet6bp_3d/AO21A1AI2_X2p1       0.0534600000         5 false         lib_cell   
+cfet6bp_3d/AOI211_X2p1          0.0534600000         5 false         lib_cell   
+cfet6bp_3d/AOI22_X2p1           0.0534600000         5 false         lib_cell   
+cfet6bp_3d/INV_X8p1             0.0534600000         2 false         lib_cell   
+cfet6bp_3d/LATNQ_X2p1           0.0534600000         3 true          lib_cell   
+cfet6bp_3d/LATQ_X2p1            0.0534600000         3 true          lib_cell   
+cfet6bp_3d/NAND2_X4p1           0.0534600000         3 false         lib_cell   
+cfet6bp_3d/NOR2_X4p1            0.0534600000         3 false         lib_cell   
+cfet6bp_3d/OA21A1OI2_X2p1       0.0534600000         5 false         lib_cell   
+cfet6bp_3d/OAI211_X2p1          0.0534600000         5 false         lib_cell   
+cfet6bp_3d/OAI22_X2p1           0.0534600000         5 false         lib_cell   
+cfet6bp_3d/MXIT2_X2p1           0.0594000000         4 false         lib_cell   
+cfet6bp_3d/XNOR2_X2p1           0.0594000000         3 false         lib_cell   
+cfet6bp_3d/XOR2_X2p1            0.0594000000         3 false         lib_cell   
+cfet6bp_3d/BUF_X8p1             0.0653400000         2 false         lib_cell   
+cfet6bp_3d/PREICG_X1p1          0.0772200000         5 true          lib_cell   
+cfet6bp_3d/PREICG_X2p1          0.0772200000         5 true          lib_cell   
+cfet6bp_3d/NAND3_X4p1           0.0772200000         4 false         lib_cell   
+cfet6bp_3d/NOR3_X4p1            0.0772200000         4 false         lib_cell   
+cfet6bp_3d/ADDF_X1p1            0.0950400000         5 false         lib_cell   
+cfet6bp_3d/SDFFQA_X1p1          0.1069200000         5 true          lib_cell   
+cfet6bp_3d/SDFFQA_X2p1          0.1069200000         5 true          lib_cell   
+cfet6bp_3d/SDFFRPQA_X1p1        0.1247400000         6 true          lib_cell   
+cfet6bp_3d/SDFFSQA_X1p1         0.1247400000         6 true          lib_cell   
+cfet6bp_3d/SDFFRPQA_X2p1        0.1247400000         6 true          lib_cell   
+cfet6bp_3d/SDFFSQA_X2p1         0.1247400000         6 true          lib_cell   
+cfet6bp_3d/INV_X1w1             0.0118800000         2 false         lib_cell   
+cfet6bp_3d/BUF_X1w1             0.0178200000         2 false         lib_cell   
+cfet6bp_3d/INV_X2w1             0.0178200000         2 false         lib_cell   
+cfet6bp_3d/NAND2_X1w1           0.0178200000         3 false         lib_cell   
+cfet6bp_3d/NOR2_X1w1            0.0178200000         3 false         lib_cell   
+cfet6bp_3d/AND2_X1w1            0.0237600000         3 false         lib_cell   
+cfet6bp_3d/AOI21_X1w1           0.0237600000         4 false         lib_cell   
+cfet6bp_3d/BUF_X2w1             0.0237600000         2 false         lib_cell   
+cfet6bp_3d/NAND2B_X1w1          0.0237600000         3 false         lib_cell   
+cfet6bp_3d/NAND3_X1w1           0.0237600000         4 false         lib_cell   
+cfet6bp_3d/NOR2B_X1w1           0.0237600000         3 false         lib_cell   
+cfet6bp_3d/NOR3_X1w1            0.0237600000         4 false         lib_cell   
+cfet6bp_3d/OAI21_X1w1           0.0237600000         4 false         lib_cell   
+cfet6bp_3d/OR2_X1w1             0.0237600000         3 false         lib_cell   
+cfet6bp_3d/AND2_X2w1            0.0297000000         3 false         lib_cell   
+cfet6bp_3d/AO21A1AI2_X1w1       0.0297000000         5 false         lib_cell   
+cfet6bp_3d/AO21B_X1w1           0.0297000000         4 false         lib_cell   
+cfet6bp_3d/AO21_X1w1            0.0356400000         4 false         lib_cell   
+cfet6bp_3d/AOI211_X1w1          0.0297000000         5 false         lib_cell   
+cfet6bp_3d/AOI22_X1w1           0.0297000000         5 false         lib_cell   
+cfet6bp_3d/INV_X4w1             0.0297000000         2 false         lib_cell   
+cfet6bp_3d/NAND2_X2w1           0.0297000000         3 false         lib_cell   
+cfet6bp_3d/NOR2_X2w1            0.0297000000         3 false         lib_cell   
+cfet6bp_3d/OA21A1OI2_X1w1       0.0297000000         5 false         lib_cell   
+cfet6bp_3d/OA21B_X1w1           0.0297000000         4 false         lib_cell   
+cfet6bp_3d/OA21_X1w1            0.0356400000         4 false         lib_cell   
+cfet6bp_3d/OAI211_X1w1          0.0297000000         5 false         lib_cell   
+cfet6bp_3d/OAI22_X1w1           0.0297000000         5 false         lib_cell   
+cfet6bp_3d/OR2_X2w1             0.0297000000         3 false         lib_cell   
+cfet6bp_3d/AO211_X1w1           0.0415800000         5 false         lib_cell   
+cfet6bp_3d/AO21_X2w1            0.0356400000         4 false         lib_cell   
+cfet6bp_3d/AO22_X1w1            0.0356400000         5 false         lib_cell   
+cfet6bp_3d/BUF_X4w1             0.0356400000         2 false         lib_cell   
+cfet6bp_3d/MXIT2_X1w1           0.0356400000         4 false         lib_cell   
+cfet6bp_3d/NAND2B_X2w1          0.0356400000         3 false         lib_cell   
+cfet6bp_3d/NOR2B_X2w1           0.0356400000         3 false         lib_cell   
+cfet6bp_3d/OA211_X1w1           0.0415800000         5 false         lib_cell   
+cfet6bp_3d/OA21_X2w1            0.0356400000         4 false         lib_cell   
+cfet6bp_3d/OA22_X1w1            0.0356400000         5 false         lib_cell   
+cfet6bp_3d/XNOR2_X1w1           0.0356400000         3 false         lib_cell   
+cfet6bp_3d/XOR2_X1w1            0.0356400000         3 false         lib_cell   
+cfet6bp_3d/AO211_X2w1           0.0415800000         5 false         lib_cell   
+cfet6bp_3d/AO21B_X2w1           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/AO22_X2w1            0.0415800000         5 false         lib_cell   
+cfet6bp_3d/AOI21_X2w1           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/MXT2_X1w1            0.0415800000         4 false         lib_cell   
+cfet6bp_3d/NAND3_X2w1           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/NOR3_X2w1            0.0415800000         4 false         lib_cell   
+cfet6bp_3d/OA211_X2w1           0.0415800000         5 false         lib_cell   
+cfet6bp_3d/OA21B_X2w1           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/OA22_X2w1            0.0415800000         5 false         lib_cell   
+cfet6bp_3d/OAI21_X2w1           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/LATNQ_X1w1           0.0534600000         3 true          lib_cell   
+cfet6bp_3d/LATQ_X1w1            0.0534600000         3 true          lib_cell   
+cfet6bp_3d/MXT2_X2w1            0.0475200000         4 false         lib_cell   
+cfet6bp_3d/AO21A1AI2_X2w1       0.0534600000         5 false         lib_cell   
+cfet6bp_3d/AOI211_X2w1          0.0534600000         5 false         lib_cell   
+cfet6bp_3d/AOI22_X2w1           0.0534600000         5 false         lib_cell   
+cfet6bp_3d/INV_X8w1             0.0534600000         2 false         lib_cell   
+cfet6bp_3d/LATNQ_X2w1           0.0534600000         3 true          lib_cell   
+cfet6bp_3d/LATQ_X2w1            0.0534600000         3 true          lib_cell   
+cfet6bp_3d/NAND2_X4w1           0.0534600000         3 false         lib_cell   
+cfet6bp_3d/NOR2_X4w1            0.0534600000         3 false         lib_cell   
+cfet6bp_3d/OA21A1OI2_X2w1       0.0534600000         5 false         lib_cell   
+cfet6bp_3d/OAI211_X2w1          0.0534600000         5 false         lib_cell   
+cfet6bp_3d/OAI22_X2w1           0.0534600000         5 false         lib_cell   
+cfet6bp_3d/MXIT2_X2w1           0.0594000000         4 false         lib_cell   
+cfet6bp_3d/XNOR2_X2w1           0.0594000000         3 false         lib_cell   
+cfet6bp_3d/XOR2_X2w1            0.0594000000         3 false         lib_cell   
+cfet6bp_3d/BUF_X8w1             0.0653400000         2 false         lib_cell   
+cfet6bp_3d/PREICG_X1w1          0.0772200000         5 true          lib_cell   
+cfet6bp_3d/PREICG_X2w1          0.0772200000         5 true          lib_cell   
+cfet6bp_3d/NAND3_X4w1           0.0772200000         4 false         lib_cell   
+cfet6bp_3d/NOR3_X4w1            0.0772200000         4 false         lib_cell   
+cfet6bp_3d/ADDF_X1w1            0.0950400000         5 false         lib_cell   
+cfet6bp_3d/SDFFQA_X1w1          0.1069200000         5 true          lib_cell   
+cfet6bp_3d/SDFFQA_X2w1          0.1069200000         5 true          lib_cell   
+cfet6bp_3d/SDFFRPQA_X1w1        0.1247400000         6 true          lib_cell   
+cfet6bp_3d/SDFFSQA_X1w1         0.1247400000         6 true          lib_cell   
+cfet6bp_3d/SDFFRPQA_X2w1        0.1247400000         6 true          lib_cell   
+cfet6bp_3d/SDFFSQA_X2w1         0.1247400000         6 true          lib_cell   
+cfet6bp_3d/ADDF_X1n2@           0.0950400000         5 false         lib_cell   
+cfet6bp_3d/ADDF_X1p2@           0.0950400000         5 false         lib_cell   
+cfet6bp_3d/ADDF_X1w2@           0.0950400000         5 false         lib_cell   
+cfet6bp_3d/AND2_X1n2@           0.0237600000         3 false         lib_cell   
+cfet6bp_3d/AND2_X1p2@           0.0237600000         3 false         lib_cell   
+cfet6bp_3d/AND2_X1w2@           0.0237600000         3 false         lib_cell   
+cfet6bp_3d/AND2_X2n2@           0.0297000000         3 false         lib_cell   
+cfet6bp_3d/AND2_X2p2@           0.0297000000         3 false         lib_cell   
+cfet6bp_3d/AND2_X2w2@           0.0297000000         3 false         lib_cell   
+cfet6bp_3d/AO211_X1n2@          0.0415800000         5 false         lib_cell   
+cfet6bp_3d/AO211_X1p2@          0.0415800000         5 false         lib_cell   
+cfet6bp_3d/AO211_X1w2@          0.0415800000         5 false         lib_cell   
+cfet6bp_3d/AO211_X2n2@          0.0415800000         5 false         lib_cell   
+cfet6bp_3d/AO211_X2p2@          0.0415800000         5 false         lib_cell   
+cfet6bp_3d/AO211_X2w2@          0.0415800000         5 false         lib_cell   
+cfet6bp_3d/AO21A1AI2_X1n2@      0.0297000000         5 false         lib_cell   
+cfet6bp_3d/AO21A1AI2_X1p2@      0.0297000000         5 false         lib_cell   
+cfet6bp_3d/AO21A1AI2_X1w2@      0.0297000000         5 false         lib_cell   
+cfet6bp_3d/AO21A1AI2_X2n2@      0.0534600000         5 false         lib_cell   
+cfet6bp_3d/AO21A1AI2_X2p2@      0.0534600000         5 false         lib_cell   
+cfet6bp_3d/AO21A1AI2_X2w2@      0.0534600000         5 false         lib_cell   
+cfet6bp_3d/AO21B_X1n2@          0.0297000000         4 false         lib_cell   
+cfet6bp_3d/AO21B_X1p2@          0.0297000000         4 false         lib_cell   
+cfet6bp_3d/AO21B_X1w2@          0.0297000000         4 false         lib_cell   
+cfet6bp_3d/AO21B_X2n2@          0.0415800000         4 false         lib_cell   
+cfet6bp_3d/AO21B_X2p2@          0.0415800000         4 false         lib_cell   
+cfet6bp_3d/AO21B_X2w2@          0.0415800000         4 false         lib_cell   
+cfet6bp_3d/AO21_X1n2@           0.0356400000         4 false         lib_cell   
+cfet6bp_3d/AO21_X1p2@           0.0356400000         4 false         lib_cell   
+cfet6bp_3d/AO21_X1w2@           0.0356400000         4 false         lib_cell   
+cfet6bp_3d/AO21_X2n2@           0.0356400000         4 false         lib_cell   
+cfet6bp_3d/AO21_X2p2@           0.0356400000         4 false         lib_cell   
+cfet6bp_3d/AO21_X2w2@           0.0356400000         4 false         lib_cell   
+cfet6bp_3d/AO22_X1n2@           0.0356400000         5 false         lib_cell   
+cfet6bp_3d/AO22_X1p2@           0.0356400000         5 false         lib_cell   
+cfet6bp_3d/AO22_X1w2@           0.0356400000         5 false         lib_cell   
+cfet6bp_3d/AO22_X2n2@           0.0415800000         5 false         lib_cell   
+cfet6bp_3d/AO22_X2p2@           0.0415800000         5 false         lib_cell   
+cfet6bp_3d/AO22_X2w2@           0.0415800000         5 false         lib_cell   
+cfet6bp_3d/AOI211_X1n2@         0.0297000000         5 false         lib_cell   
+cfet6bp_3d/AOI211_X1p2@         0.0297000000         5 false         lib_cell   
+cfet6bp_3d/AOI211_X1w2@         0.0297000000         5 false         lib_cell   
+cfet6bp_3d/AOI211_X2n2@         0.0534600000         5 false         lib_cell   
+cfet6bp_3d/AOI211_X2p2@         0.0534600000         5 false         lib_cell   
+cfet6bp_3d/AOI211_X2w2@         0.0534600000         5 false         lib_cell   
+cfet6bp_3d/AOI21_X1n2@          0.0237600000         4 false         lib_cell   
+cfet6bp_3d/AOI21_X1p2@          0.0237600000         4 false         lib_cell   
+cfet6bp_3d/AOI21_X1w2@          0.0237600000         4 false         lib_cell   
+cfet6bp_3d/AOI21_X2n2@          0.0415800000         4 false         lib_cell   
+cfet6bp_3d/AOI21_X2p2@          0.0415800000         4 false         lib_cell   
+cfet6bp_3d/AOI21_X2w2@          0.0415800000         4 false         lib_cell   
+cfet6bp_3d/AOI22_X1n2@          0.0297000000         5 false         lib_cell   
+cfet6bp_3d/AOI22_X1p2@          0.0297000000         5 false         lib_cell   
+cfet6bp_3d/AOI22_X1w2@          0.0297000000         5 false         lib_cell   
+cfet6bp_3d/AOI22_X2n2@          0.0534600000         5 false         lib_cell   
+cfet6bp_3d/AOI22_X2p2@          0.0534600000         5 false         lib_cell   
+cfet6bp_3d/AOI22_X2w2@          0.0534600000         5 false         lib_cell   
+cfet6bp_3d/BUF_X1n2@            0.0178200000         2 false         lib_cell   
+cfet6bp_3d/BUF_X1p2@            0.0178200000         2 false         lib_cell   
+cfet6bp_3d/BUF_X1w2@            0.0178200000         2 false         lib_cell   
+cfet6bp_3d/BUF_X2n2@            0.0237600000         2 false         lib_cell   
+cfet6bp_3d/BUF_X2p2@            0.0237600000         2 false         lib_cell   
+cfet6bp_3d/BUF_X2w2@            0.0237600000         2 false         lib_cell   
+cfet6bp_3d/BUF_X4n2@            0.0356400000         2 false         lib_cell   
+cfet6bp_3d/BUF_X4p2@            0.0356400000         2 false         lib_cell   
+cfet6bp_3d/BUF_X4w2@            0.0356400000         2 false         lib_cell   
+cfet6bp_3d/BUF_X8n2@            0.0653400000         2 false         lib_cell   
+cfet6bp_3d/BUF_X8p2@            0.0653400000         2 false         lib_cell   
+cfet6bp_3d/BUF_X8w2@            0.0653400000         2 false         lib_cell   
+cfet6bp_3d/INV_X1n2@            0.0118800000         2 false         lib_cell   
+cfet6bp_3d/INV_X1p2@            0.0118800000         2 false         lib_cell   
+cfet6bp_3d/INV_X1w2@            0.0118800000         2 false         lib_cell   
+cfet6bp_3d/INV_X2n2@            0.0178200000         2 false         lib_cell   
+cfet6bp_3d/INV_X2p2@            0.0178200000         2 false         lib_cell   
+cfet6bp_3d/INV_X2w2@            0.0178200000         2 false         lib_cell   
+cfet6bp_3d/INV_X4n2@            0.0297000000         2 false         lib_cell   
+cfet6bp_3d/INV_X4p2@            0.0297000000         2 false         lib_cell   
+cfet6bp_3d/INV_X4w2@            0.0297000000         2 false         lib_cell   
+cfet6bp_3d/INV_X8n2@            0.0534600000         2 false         lib_cell   
+cfet6bp_3d/INV_X8p2@            0.0534600000         2 false         lib_cell   
+cfet6bp_3d/INV_X8w2@            0.0534600000         2 false         lib_cell   
+cfet6bp_3d/LATNQ_X1n2@          0.0534600000         3 true          lib_cell   
+cfet6bp_3d/LATNQ_X1p2@          0.0534600000         3 true          lib_cell   
+cfet6bp_3d/LATNQ_X1w2@          0.0534600000         3 true          lib_cell   
+cfet6bp_3d/LATNQ_X2n2@          0.0534600000         3 true          lib_cell   
+cfet6bp_3d/LATNQ_X2p2@          0.0534600000         3 true          lib_cell   
+cfet6bp_3d/LATNQ_X2w2@          0.0534600000         3 true          lib_cell   
+cfet6bp_3d/LATQ_X1n2@           0.0534600000         3 true          lib_cell   
+cfet6bp_3d/LATQ_X1p2@           0.0534600000         3 true          lib_cell   
+cfet6bp_3d/LATQ_X1w2@           0.0534600000         3 true          lib_cell   
+cfet6bp_3d/LATQ_X2n2@           0.0534600000         3 true          lib_cell   
+cfet6bp_3d/LATQ_X2p2@           0.0534600000         3 true          lib_cell   
+cfet6bp_3d/LATQ_X2w2@           0.0534600000         3 true          lib_cell   
+cfet6bp_3d/MXIT2_X1n2@          0.0356400000         4 false         lib_cell   
+cfet6bp_3d/MXIT2_X1p2@          0.0356400000         4 false         lib_cell   
+cfet6bp_3d/MXIT2_X1w2@          0.0356400000         4 false         lib_cell   
+cfet6bp_3d/MXIT2_X2n2@          0.0594000000         4 false         lib_cell   
+cfet6bp_3d/MXIT2_X2p2@          0.0594000000         4 false         lib_cell   
+cfet6bp_3d/MXIT2_X2w2@          0.0594000000         4 false         lib_cell   
+cfet6bp_3d/MXT2_X1n2@           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/MXT2_X1p2@           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/MXT2_X1w2@           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/MXT2_X2n2@           0.0475200000         4 false         lib_cell   
+cfet6bp_3d/MXT2_X2p2@           0.0475200000         4 false         lib_cell   
+cfet6bp_3d/MXT2_X2w2@           0.0475200000         4 false         lib_cell   
+cfet6bp_3d/NAND2B_X1n2@         0.0237600000         3 false         lib_cell   
+cfet6bp_3d/NAND2B_X1p2@         0.0237600000         3 false         lib_cell   
+cfet6bp_3d/NAND2B_X1w2@         0.0237600000         3 false         lib_cell   
+cfet6bp_3d/NAND2B_X2n2@         0.0356400000         3 false         lib_cell   
+cfet6bp_3d/NAND2B_X2p2@         0.0356400000         3 false         lib_cell   
+cfet6bp_3d/NAND2B_X2w2@         0.0356400000         3 false         lib_cell   
+cfet6bp_3d/NAND2_X1n2@          0.0178200000         3 false         lib_cell   
+cfet6bp_3d/NAND2_X1p2@          0.0178200000         3 false         lib_cell   
+cfet6bp_3d/NAND2_X1w2@          0.0178200000         3 false         lib_cell   
+cfet6bp_3d/NAND2_X2n2@          0.0297000000         3 false         lib_cell   
+cfet6bp_3d/NAND2_X2p2@          0.0297000000         3 false         lib_cell   
+cfet6bp_3d/NAND2_X2w2@          0.0297000000         3 false         lib_cell   
+cfet6bp_3d/NAND2_X4n2@          0.0534600000         3 false         lib_cell   
+cfet6bp_3d/NAND2_X4p2@          0.0534600000         3 false         lib_cell   
+cfet6bp_3d/NAND2_X4w2@          0.0534600000         3 false         lib_cell   
+cfet6bp_3d/NAND3_X1n2@          0.0237600000         4 false         lib_cell   
+cfet6bp_3d/NAND3_X1p2@          0.0237600000         4 false         lib_cell   
+cfet6bp_3d/NAND3_X1w2@          0.0237600000         4 false         lib_cell   
+cfet6bp_3d/NAND3_X2n2@          0.0415800000         4 false         lib_cell   
+cfet6bp_3d/NAND3_X2p2@          0.0415800000         4 false         lib_cell   
+cfet6bp_3d/NAND3_X2w2@          0.0415800000         4 false         lib_cell   
+cfet6bp_3d/NAND3_X4n2@          0.0772200000         4 false         lib_cell   
+cfet6bp_3d/NAND3_X4p2@          0.0772200000         4 false         lib_cell   
+cfet6bp_3d/NAND3_X4w2@          0.0772200000         4 false         lib_cell   
+cfet6bp_3d/NOR2B_X1n2@          0.0237600000         3 false         lib_cell   
+cfet6bp_3d/NOR2B_X1p2@          0.0237600000         3 false         lib_cell   
+cfet6bp_3d/NOR2B_X1w2@          0.0237600000         3 false         lib_cell   
+cfet6bp_3d/NOR2B_X2n2@          0.0356400000         3 false         lib_cell   
+cfet6bp_3d/NOR2B_X2p2@          0.0356400000         3 false         lib_cell   
+cfet6bp_3d/NOR2B_X2w2@          0.0356400000         3 false         lib_cell   
+cfet6bp_3d/NOR2_X1n2@           0.0178200000         3 false         lib_cell   
+cfet6bp_3d/NOR2_X1p2@           0.0178200000         3 false         lib_cell   
+cfet6bp_3d/NOR2_X1w2@           0.0178200000         3 false         lib_cell   
+cfet6bp_3d/NOR2_X2n2@           0.0297000000         3 false         lib_cell   
+cfet6bp_3d/NOR2_X2p2@           0.0297000000         3 false         lib_cell   
+cfet6bp_3d/NOR2_X2w2@           0.0297000000         3 false         lib_cell   
+cfet6bp_3d/NOR2_X4n2@           0.0534600000         3 false         lib_cell   
+cfet6bp_3d/NOR2_X4p2@           0.0534600000         3 false         lib_cell   
+cfet6bp_3d/NOR2_X4w2@           0.0534600000         3 false         lib_cell   
+cfet6bp_3d/NOR3_X1n2@           0.0237600000         4 false         lib_cell   
+cfet6bp_3d/NOR3_X1p2@           0.0237600000         4 false         lib_cell   
+cfet6bp_3d/NOR3_X1w2@           0.0237600000         4 false         lib_cell   
+cfet6bp_3d/NOR3_X2n2@           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/NOR3_X2p2@           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/NOR3_X2w2@           0.0415800000         4 false         lib_cell   
+cfet6bp_3d/NOR3_X4n2@           0.0772200000         4 false         lib_cell   
+cfet6bp_3d/NOR3_X4p2@           0.0772200000         4 false         lib_cell   
+cfet6bp_3d/NOR3_X4w2@           0.0772200000         4 false         lib_cell   
+cfet6bp_3d/OA211_X1n2@          0.0415800000         5 false         lib_cell   
+cfet6bp_3d/OA211_X1p2@          0.0415800000         5 false         lib_cell   
+cfet6bp_3d/OA211_X1w2@          0.0415800000         5 false         lib_cell   
+cfet6bp_3d/OA211_X2n2@          0.0415800000         5 false         lib_cell   
+cfet6bp_3d/OA211_X2p2@          0.0415800000         5 false         lib_cell   
+cfet6bp_3d/OA211_X2w2@          0.0415800000         5 false         lib_cell   
+cfet6bp_3d/OA21A1OI2_X1n2@      0.0297000000         5 false         lib_cell   
+cfet6bp_3d/OA21A1OI2_X1p2@      0.0297000000         5 false         lib_cell   
+cfet6bp_3d/OA21A1OI2_X1w2@      0.0297000000         5 false         lib_cell   
+cfet6bp_3d/OA21A1OI2_X2n2@      0.0534600000         5 false         lib_cell   
+cfet6bp_3d/OA21A1OI2_X2p2@      0.0534600000         5 false         lib_cell   
+cfet6bp_3d/OA21A1OI2_X2w2@      0.0534600000         5 false         lib_cell   
+cfet6bp_3d/OA21B_X1n2@          0.0297000000         4 false         lib_cell   
+cfet6bp_3d/OA21B_X1p2@          0.0297000000         4 false         lib_cell   
+cfet6bp_3d/OA21B_X1w2@          0.0297000000         4 false         lib_cell   
+cfet6bp_3d/OA21B_X2n2@          0.0415800000         4 false         lib_cell   
+cfet6bp_3d/OA21B_X2p2@          0.0415800000         4 false         lib_cell   
+cfet6bp_3d/OA21B_X2w2@          0.0415800000         4 false         lib_cell   
+cfet6bp_3d/OA21_X1n2@           0.0356400000         4 false         lib_cell   
+cfet6bp_3d/OA21_X1p2@           0.0356400000         4 false         lib_cell   
+cfet6bp_3d/OA21_X1w2@           0.0356400000         4 false         lib_cell   
+cfet6bp_3d/OA21_X2n2@           0.0356400000         4 false         lib_cell   
+cfet6bp_3d/OA21_X2p2@           0.0356400000         4 false         lib_cell   
+cfet6bp_3d/OA21_X2w2@           0.0356400000         4 false         lib_cell   
+cfet6bp_3d/OA22_X1n2@           0.0356400000         5 false         lib_cell   
+cfet6bp_3d/OA22_X1p2@           0.0356400000         5 false         lib_cell   
+cfet6bp_3d/OA22_X1w2@           0.0356400000         5 false         lib_cell   
+cfet6bp_3d/OA22_X2n2@           0.0415800000         5 false         lib_cell   
+cfet6bp_3d/OA22_X2p2@           0.0415800000         5 false         lib_cell   
+cfet6bp_3d/OA22_X2w2@           0.0415800000         5 false         lib_cell   
+cfet6bp_3d/OAI211_X1n2@         0.0297000000         5 false         lib_cell   
+cfet6bp_3d/OAI211_X1p2@         0.0297000000         5 false         lib_cell   
+cfet6bp_3d/OAI211_X1w2@         0.0297000000         5 false         lib_cell   
+cfet6bp_3d/OAI211_X2n2@         0.0534600000         5 false         lib_cell   
+cfet6bp_3d/OAI211_X2p2@         0.0534600000         5 false         lib_cell   
+cfet6bp_3d/OAI211_X2w2@         0.0534600000         5 false         lib_cell   
+cfet6bp_3d/OAI21_X1n2@          0.0237600000         4 false         lib_cell   
+cfet6bp_3d/OAI21_X1p2@          0.0237600000         4 false         lib_cell   
+cfet6bp_3d/OAI21_X1w2@          0.0237600000         4 false         lib_cell   
+cfet6bp_3d/OAI21_X2n2@          0.0415800000         4 false         lib_cell   
+cfet6bp_3d/OAI21_X2p2@          0.0415800000         4 false         lib_cell   
+cfet6bp_3d/OAI21_X2w2@          0.0415800000         4 false         lib_cell   
+cfet6bp_3d/OAI22_X1n2@          0.0297000000         5 false         lib_cell   
+cfet6bp_3d/OAI22_X1p2@          0.0297000000         5 false         lib_cell   
+cfet6bp_3d/OAI22_X1w2@          0.0297000000         5 false         lib_cell   
+cfet6bp_3d/OAI22_X2n2@          0.0534600000         5 false         lib_cell   
+cfet6bp_3d/OAI22_X2p2@          0.0534600000         5 false         lib_cell   
+cfet6bp_3d/OAI22_X2w2@          0.0534600000         5 false         lib_cell   
+cfet6bp_3d/OR2_X1n2@            0.0237600000         3 false         lib_cell   
+cfet6bp_3d/OR2_X1p2@            0.0237600000         3 false         lib_cell   
+cfet6bp_3d/OR2_X1w2@            0.0237600000         3 false         lib_cell   
+cfet6bp_3d/OR2_X2n2@            0.0297000000         3 false         lib_cell   
+cfet6bp_3d/OR2_X2p2@            0.0297000000         3 false         lib_cell   
+cfet6bp_3d/OR2_X2w2@            0.0297000000         3 false         lib_cell   
+cfet6bp_3d/PREICG_X1n2@         0.0772200000         5 true          lib_cell   
+cfet6bp_3d/PREICG_X1p2@         0.0772200000         5 true          lib_cell   
+cfet6bp_3d/PREICG_X1w2@         0.0772200000         5 true          lib_cell   
+cfet6bp_3d/PREICG_X2n2@         0.0772200000         5 true          lib_cell   
+cfet6bp_3d/PREICG_X2p2@         0.0772200000         5 true          lib_cell   
+cfet6bp_3d/PREICG_X2w2@         0.0772200000         5 true          lib_cell   
+cfet6bp_3d/SDFFQA_X1n2@         0.1069200000         5 true          lib_cell   
+cfet6bp_3d/SDFFQA_X1p2@         0.1069200000         5 true          lib_cell   
+cfet6bp_3d/SDFFQA_X1w2@         0.1069200000         5 true          lib_cell   
+cfet6bp_3d/SDFFQA_X2n2@         0.1069200000         5 true          lib_cell   
+cfet6bp_3d/SDFFQA_X2p2@         0.1069200000         5 true          lib_cell   
+cfet6bp_3d/SDFFQA_X2w2@         0.1069200000         5 true          lib_cell   
+cfet6bp_3d/SDFFRPQA_X1n2@       0.1247400000         6 true          lib_cell   
+cfet6bp_3d/SDFFRPQA_X1p2@       0.1247400000         6 true          lib_cell   
+cfet6bp_3d/SDFFRPQA_X1w2@       0.1247400000         6 true          lib_cell   
+cfet6bp_3d/SDFFRPQA_X2n2@       0.1247400000         6 true          lib_cell   
+cfet6bp_3d/SDFFRPQA_X2p2@       0.1247400000         6 true          lib_cell   
+cfet6bp_3d/SDFFRPQA_X2w2@       0.1247400000         6 true          lib_cell   
+cfet6bp_3d/SDFFSQA_X1n2@        0.1247400000         6 true          lib_cell   
+cfet6bp_3d/SDFFSQA_X1p2@        0.1247400000         6 true          lib_cell   
+cfet6bp_3d/SDFFSQA_X1w2@        0.1247400000         6 true          lib_cell   
+cfet6bp_3d/SDFFSQA_X2n2@        0.1247400000         6 true          lib_cell   
+cfet6bp_3d/SDFFSQA_X2p2@        0.1247400000         6 true          lib_cell   
+cfet6bp_3d/SDFFSQA_X2w2@        0.1247400000         6 true          lib_cell   
+cfet6bp_3d/XNOR2_X1n2@          0.0356400000         3 false         lib_cell   
+cfet6bp_3d/XNOR2_X1p2@          0.0356400000         3 false         lib_cell   
+cfet6bp_3d/XNOR2_X1w2@          0.0356400000         3 false         lib_cell   
+cfet6bp_3d/XNOR2_X2n2@          0.0594000000         3 false         lib_cell   
+cfet6bp_3d/XNOR2_X2p2@          0.0594000000         3 false         lib_cell   
+cfet6bp_3d/XNOR2_X2w2@          0.0594000000         3 false         lib_cell   
+cfet6bp_3d/XOR2_X1n2@           0.0356400000         3 false         lib_cell   
+cfet6bp_3d/XOR2_X1p2@           0.0356400000         3 false         lib_cell   
+cfet6bp_3d/XOR2_X1w2@           0.0356400000         3 false         lib_cell   
+cfet6bp_3d/XOR2_X2n2@           0.0594000000         3 false         lib_cell   
+cfet6bp_3d/XOR2_X2p2@           0.0594000000         3 false         lib_cell   
+cfet6bp_3d/XOR2_X2w2@           0.0594000000         3 false         lib_cell   
+cfet6bp_3d/INV_X1n1/frame       0.0118800000         2               lib_cell   
+cfet6bp_3d/BUF_X1n1/frame       0.0178200000         2               lib_cell   
+cfet6bp_3d/INV_X2n1/frame       0.0178200000         2               lib_cell   
+cfet6bp_3d/NAND2_X1n1/frame     0.0178200000         3               lib_cell   
+cfet6bp_3d/NOR2_X1n1/frame      0.0178200000         3               lib_cell   
+cfet6bp_3d/AND2_X1n1/frame      0.0237600000         3               lib_cell   
+cfet6bp_3d/AOI21_X1n1/frame     0.0237600000         4               lib_cell   
+cfet6bp_3d/BUF_X2n1/frame       0.0237600000         2               lib_cell   
+cfet6bp_3d/NAND2B_X1n1/frame    0.0237600000         3               lib_cell   
+cfet6bp_3d/NAND3_X1n1/frame     0.0237600000         4               lib_cell   
+cfet6bp_3d/NOR2B_X1n1/frame     0.0237600000         3               lib_cell   
+cfet6bp_3d/NOR3_X1n1/frame      0.0237600000         4               lib_cell   
+cfet6bp_3d/OAI21_X1n1/frame     0.0237600000         4               lib_cell   
+cfet6bp_3d/OR2_X1n1/frame       0.0237600000         3               lib_cell   
+cfet6bp_3d/AND2_X2n1/frame      0.0297000000         3               lib_cell   
+cfet6bp_3d/AO21A1AI2_X1n1/frame 0.0297000000         5               lib_cell   
+cfet6bp_3d/AO21B_X1n1/frame     0.0297000000         4               lib_cell   
+cfet6bp_3d/AO21_X1n1/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/AOI211_X1n1/frame    0.0297000000         5               lib_cell   
+cfet6bp_3d/AOI22_X1n1/frame     0.0297000000         5               lib_cell   
+cfet6bp_3d/INV_X4n1/frame       0.0297000000         2               lib_cell   
+cfet6bp_3d/NAND2_X2n1/frame     0.0297000000         3               lib_cell   
+cfet6bp_3d/NOR2_X2n1/frame      0.0297000000         3               lib_cell   
+cfet6bp_3d/OA21A1OI2_X1n1/frame 0.0297000000         5               lib_cell   
+cfet6bp_3d/OA21B_X1n1/frame     0.0297000000         4               lib_cell   
+cfet6bp_3d/OA21_X1n1/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/OAI211_X1n1/frame    0.0297000000         5               lib_cell   
+cfet6bp_3d/OAI22_X1n1/frame     0.0297000000         5               lib_cell   
+cfet6bp_3d/OR2_X2n1/frame       0.0297000000         3               lib_cell   
+cfet6bp_3d/AO211_X1n1/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/AO21_X2n1/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/AO22_X1n1/frame      0.0356400000         5               lib_cell   
+cfet6bp_3d/BUF_X4n1/frame       0.0356400000         2               lib_cell   
+cfet6bp_3d/MXIT2_X1n1/frame     0.0356400000         4               lib_cell   
+cfet6bp_3d/NAND2B_X2n1/frame    0.0356400000         3               lib_cell   
+cfet6bp_3d/NOR2B_X2n1/frame     0.0356400000         3               lib_cell   
+cfet6bp_3d/OA211_X1n1/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/OA21_X2n1/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/OA22_X1n1/frame      0.0356400000         5               lib_cell   
+cfet6bp_3d/XNOR2_X1n1/frame     0.0356400000         3               lib_cell   
+cfet6bp_3d/XOR2_X1n1/frame      0.0356400000         3               lib_cell   
+cfet6bp_3d/AO211_X2n1/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/AO21B_X2n1/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/AO22_X2n1/frame      0.0415800000         5               lib_cell   
+cfet6bp_3d/AOI21_X2n1/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/MXT2_X1n1/frame      0.0415800000         4               lib_cell   
+cfet6bp_3d/NAND3_X2n1/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/NOR3_X2n1/frame      0.0415800000         4               lib_cell   
+cfet6bp_3d/OA211_X2n1/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/OA21B_X2n1/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/OA22_X2n1/frame      0.0415800000         5               lib_cell   
+cfet6bp_3d/OAI21_X2n1/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/LATNQ_X1n1/frame     0.0534600000         3               lib_cell   
+cfet6bp_3d/LATQ_X1n1/frame      0.0534600000         3               lib_cell   
+cfet6bp_3d/MXT2_X2n1/frame      0.0475200000         4               lib_cell   
+cfet6bp_3d/AO21A1AI2_X2n1/frame 0.0534600000         5               lib_cell   
+cfet6bp_3d/AOI211_X2n1/frame    0.0534600000         5               lib_cell   
+cfet6bp_3d/AOI22_X2n1/frame     0.0534600000         5               lib_cell   
+cfet6bp_3d/INV_X8n1/frame       0.0534600000         2               lib_cell   
+cfet6bp_3d/LATNQ_X2n1/frame     0.0534600000         3               lib_cell   
+cfet6bp_3d/LATQ_X2n1/frame      0.0534600000         3               lib_cell   
+cfet6bp_3d/NAND2_X4n1/frame     0.0534600000         3               lib_cell   
+cfet6bp_3d/NOR2_X4n1/frame      0.0534600000         3               lib_cell   
+cfet6bp_3d/OA21A1OI2_X2n1/frame 0.0534600000         5               lib_cell   
+cfet6bp_3d/OAI211_X2n1/frame    0.0534600000         5               lib_cell   
+cfet6bp_3d/OAI22_X2n1/frame     0.0534600000         5               lib_cell   
+cfet6bp_3d/MXIT2_X2n1/frame     0.0594000000         4               lib_cell   
+cfet6bp_3d/XNOR2_X2n1/frame     0.0594000000         3               lib_cell   
+cfet6bp_3d/XOR2_X2n1/frame      0.0594000000         3               lib_cell   
+cfet6bp_3d/BUF_X8n1/frame       0.0653400000         2               lib_cell   
+cfet6bp_3d/PREICG_X1n1/frame    0.0772200000         5               lib_cell   
+cfet6bp_3d/PREICG_X2n1/frame    0.0772200000         5               lib_cell   
+cfet6bp_3d/NAND3_X4n1/frame     0.0772200000         4               lib_cell   
+cfet6bp_3d/NOR3_X4n1/frame      0.0772200000         4               lib_cell   
+cfet6bp_3d/ADDF_X1n1/frame      0.0950400000         5               lib_cell   
+cfet6bp_3d/SDFFQA_X1n1/frame    0.1069200000         5               lib_cell   
+cfet6bp_3d/SDFFQA_X2n1/frame    0.1069200000         5               lib_cell   
+cfet6bp_3d/SDFFRPQA_X1n1/frame  0.1247400000         6               lib_cell   
+cfet6bp_3d/SDFFSQA_X1n1/frame   0.1247400000         6               lib_cell   
+cfet6bp_3d/SDFFRPQA_X2n1/frame  0.1247400000         6               lib_cell   
+cfet6bp_3d/SDFFSQA_X2n1/frame   0.1247400000         6               lib_cell   
+cfet6bp_3d/INV_X1p1/frame       0.0118800000         2               lib_cell   
+cfet6bp_3d/BUF_X1p1/frame       0.0178200000         2               lib_cell   
+cfet6bp_3d/INV_X2p1/frame       0.0178200000         2               lib_cell   
+cfet6bp_3d/NAND2_X1p1/frame     0.0178200000         3               lib_cell   
+cfet6bp_3d/NOR2_X1p1/frame      0.0178200000         3               lib_cell   
+cfet6bp_3d/AND2_X1p1/frame      0.0237600000         3               lib_cell   
+cfet6bp_3d/AOI21_X1p1/frame     0.0237600000         4               lib_cell   
+cfet6bp_3d/BUF_X2p1/frame       0.0237600000         2               lib_cell   
+cfet6bp_3d/NAND2B_X1p1/frame    0.0237600000         3               lib_cell   
+cfet6bp_3d/NAND3_X1p1/frame     0.0237600000         4               lib_cell   
+cfet6bp_3d/NOR2B_X1p1/frame     0.0237600000         3               lib_cell   
+cfet6bp_3d/NOR3_X1p1/frame      0.0237600000         4               lib_cell   
+cfet6bp_3d/OAI21_X1p1/frame     0.0237600000         4               lib_cell   
+cfet6bp_3d/OR2_X1p1/frame       0.0237600000         3               lib_cell   
+cfet6bp_3d/AND2_X2p1/frame      0.0297000000         3               lib_cell   
+cfet6bp_3d/AO21A1AI2_X1p1/frame 0.0297000000         5               lib_cell   
+cfet6bp_3d/AO21B_X1p1/frame     0.0297000000         4               lib_cell   
+cfet6bp_3d/AO21_X1p1/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/AOI211_X1p1/frame    0.0297000000         5               lib_cell   
+cfet6bp_3d/AOI22_X1p1/frame     0.0297000000         5               lib_cell   
+cfet6bp_3d/INV_X4p1/frame       0.0297000000         2               lib_cell   
+cfet6bp_3d/NAND2_X2p1/frame     0.0297000000         3               lib_cell   
+cfet6bp_3d/NOR2_X2p1/frame      0.0297000000         3               lib_cell   
+cfet6bp_3d/OA21A1OI2_X1p1/frame 0.0297000000         5               lib_cell   
+cfet6bp_3d/OA21B_X1p1/frame     0.0297000000         4               lib_cell   
+cfet6bp_3d/OA21_X1p1/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/OAI211_X1p1/frame    0.0297000000         5               lib_cell   
+cfet6bp_3d/OAI22_X1p1/frame     0.0297000000         5               lib_cell   
+cfet6bp_3d/OR2_X2p1/frame       0.0297000000         3               lib_cell   
+cfet6bp_3d/AO211_X1p1/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/AO21_X2p1/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/AO22_X1p1/frame      0.0356400000         5               lib_cell   
+cfet6bp_3d/BUF_X4p1/frame       0.0356400000         2               lib_cell   
+cfet6bp_3d/MXIT2_X1p1/frame     0.0356400000         4               lib_cell   
+cfet6bp_3d/NAND2B_X2p1/frame    0.0356400000         3               lib_cell   
+cfet6bp_3d/NOR2B_X2p1/frame     0.0356400000         3               lib_cell   
+cfet6bp_3d/OA211_X1p1/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/OA21_X2p1/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/OA22_X1p1/frame      0.0356400000         5               lib_cell   
+cfet6bp_3d/XNOR2_X1p1/frame     0.0356400000         3               lib_cell   
+cfet6bp_3d/XOR2_X1p1/frame      0.0356400000         3               lib_cell   
+cfet6bp_3d/AO211_X2p1/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/AO21B_X2p1/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/AO22_X2p1/frame      0.0415800000         5               lib_cell   
+cfet6bp_3d/AOI21_X2p1/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/MXT2_X1p1/frame      0.0415800000         4               lib_cell   
+cfet6bp_3d/NAND3_X2p1/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/NOR3_X2p1/frame      0.0415800000         4               lib_cell   
+cfet6bp_3d/OA211_X2p1/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/OA21B_X2p1/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/OA22_X2p1/frame      0.0415800000         5               lib_cell   
+cfet6bp_3d/OAI21_X2p1/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/LATNQ_X1p1/frame     0.0534600000         3               lib_cell   
+cfet6bp_3d/LATQ_X1p1/frame      0.0534600000         3               lib_cell   
+cfet6bp_3d/MXT2_X2p1/frame      0.0475200000         4               lib_cell   
+cfet6bp_3d/AO21A1AI2_X2p1/frame 0.0534600000         5               lib_cell   
+cfet6bp_3d/AOI211_X2p1/frame    0.0534600000         5               lib_cell   
+cfet6bp_3d/AOI22_X2p1/frame     0.0534600000         5               lib_cell   
+cfet6bp_3d/INV_X8p1/frame       0.0534600000         2               lib_cell   
+cfet6bp_3d/LATNQ_X2p1/frame     0.0534600000         3               lib_cell   
+cfet6bp_3d/LATQ_X2p1/frame      0.0534600000         3               lib_cell   
+cfet6bp_3d/NAND2_X4p1/frame     0.0534600000         3               lib_cell   
+cfet6bp_3d/NOR2_X4p1/frame      0.0534600000         3               lib_cell   
+cfet6bp_3d/OA21A1OI2_X2p1/frame 0.0534600000         5               lib_cell   
+cfet6bp_3d/OAI211_X2p1/frame    0.0534600000         5               lib_cell   
+cfet6bp_3d/OAI22_X2p1/frame     0.0534600000         5               lib_cell   
+cfet6bp_3d/MXIT2_X2p1/frame     0.0594000000         4               lib_cell   
+cfet6bp_3d/XNOR2_X2p1/frame     0.0594000000         3               lib_cell   
+cfet6bp_3d/XOR2_X2p1/frame      0.0594000000         3               lib_cell   
+cfet6bp_3d/BUF_X8p1/frame       0.0653400000         2               lib_cell   
+cfet6bp_3d/PREICG_X1p1/frame    0.0772200000         5               lib_cell   
+cfet6bp_3d/PREICG_X2p1/frame    0.0772200000         5               lib_cell   
+cfet6bp_3d/NAND3_X4p1/frame     0.0772200000         4               lib_cell   
+cfet6bp_3d/NOR3_X4p1/frame      0.0772200000         4               lib_cell   
+cfet6bp_3d/ADDF_X1p1/frame      0.0950400000         5               lib_cell   
+cfet6bp_3d/SDFFQA_X1p1/frame    0.1069200000         5               lib_cell   
+cfet6bp_3d/SDFFQA_X2p1/frame    0.1069200000         5               lib_cell   
+cfet6bp_3d/SDFFRPQA_X1p1/frame  0.1247400000         6               lib_cell   
+cfet6bp_3d/SDFFSQA_X1p1/frame   0.1247400000         6               lib_cell   
+cfet6bp_3d/SDFFRPQA_X2p1/frame  0.1247400000         6               lib_cell   
+cfet6bp_3d/SDFFSQA_X2p1/frame   0.1247400000         6               lib_cell   
+cfet6bp_3d/INV_X1w1/frame       0.0118800000         2               lib_cell   
+cfet6bp_3d/BUF_X1w1/frame       0.0178200000         2               lib_cell   
+cfet6bp_3d/INV_X2w1/frame       0.0178200000         2               lib_cell   
+cfet6bp_3d/NAND2_X1w1/frame     0.0178200000         3               lib_cell   
+cfet6bp_3d/NOR2_X1w1/frame      0.0178200000         3               lib_cell   
+cfet6bp_3d/AND2_X1w1/frame      0.0237600000         3               lib_cell   
+cfet6bp_3d/AOI21_X1w1/frame     0.0237600000         4               lib_cell   
+cfet6bp_3d/BUF_X2w1/frame       0.0237600000         2               lib_cell   
+cfet6bp_3d/NAND2B_X1w1/frame    0.0237600000         3               lib_cell   
+cfet6bp_3d/NAND3_X1w1/frame     0.0237600000         4               lib_cell   
+cfet6bp_3d/NOR2B_X1w1/frame     0.0237600000         3               lib_cell   
+cfet6bp_3d/NOR3_X1w1/frame      0.0237600000         4               lib_cell   
+cfet6bp_3d/OAI21_X1w1/frame     0.0237600000         4               lib_cell   
+cfet6bp_3d/OR2_X1w1/frame       0.0237600000         3               lib_cell   
+cfet6bp_3d/AND2_X2w1/frame      0.0297000000         3               lib_cell   
+cfet6bp_3d/AO21A1AI2_X1w1/frame 0.0297000000         5               lib_cell   
+cfet6bp_3d/AO21B_X1w1/frame     0.0297000000         4               lib_cell   
+cfet6bp_3d/AO21_X1w1/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/AOI211_X1w1/frame    0.0297000000         5               lib_cell   
+cfet6bp_3d/AOI22_X1w1/frame     0.0297000000         5               lib_cell   
+cfet6bp_3d/INV_X4w1/frame       0.0297000000         2               lib_cell   
+cfet6bp_3d/NAND2_X2w1/frame     0.0297000000         3               lib_cell   
+cfet6bp_3d/NOR2_X2w1/frame      0.0297000000         3               lib_cell   
+cfet6bp_3d/OA21A1OI2_X1w1/frame 0.0297000000         5               lib_cell   
+cfet6bp_3d/OA21B_X1w1/frame     0.0297000000         4               lib_cell   
+cfet6bp_3d/OA21_X1w1/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/OAI211_X1w1/frame    0.0297000000         5               lib_cell   
+cfet6bp_3d/OAI22_X1w1/frame     0.0297000000         5               lib_cell   
+cfet6bp_3d/OR2_X2w1/frame       0.0297000000         3               lib_cell   
+cfet6bp_3d/AO211_X1w1/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/AO21_X2w1/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/AO22_X1w1/frame      0.0356400000         5               lib_cell   
+cfet6bp_3d/BUF_X4w1/frame       0.0356400000         2               lib_cell   
+cfet6bp_3d/MXIT2_X1w1/frame     0.0356400000         4               lib_cell   
+cfet6bp_3d/NAND2B_X2w1/frame    0.0356400000         3               lib_cell   
+cfet6bp_3d/NOR2B_X2w1/frame     0.0356400000         3               lib_cell   
+cfet6bp_3d/OA211_X1w1/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/OA21_X2w1/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/OA22_X1w1/frame      0.0356400000         5               lib_cell   
+cfet6bp_3d/XNOR2_X1w1/frame     0.0356400000         3               lib_cell   
+cfet6bp_3d/XOR2_X1w1/frame      0.0356400000         3               lib_cell   
+cfet6bp_3d/AO211_X2w1/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/AO21B_X2w1/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/AO22_X2w1/frame      0.0415800000         5               lib_cell   
+cfet6bp_3d/AOI21_X2w1/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/MXT2_X1w1/frame      0.0415800000         4               lib_cell   
+cfet6bp_3d/NAND3_X2w1/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/NOR3_X2w1/frame      0.0415800000         4               lib_cell   
+cfet6bp_3d/OA211_X2w1/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/OA21B_X2w1/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/OA22_X2w1/frame      0.0415800000         5               lib_cell   
+cfet6bp_3d/OAI21_X2w1/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/LATNQ_X1w1/frame     0.0534600000         3               lib_cell   
+cfet6bp_3d/LATQ_X1w1/frame      0.0534600000         3               lib_cell   
+cfet6bp_3d/MXT2_X2w1/frame      0.0475200000         4               lib_cell   
+cfet6bp_3d/AO21A1AI2_X2w1/frame 0.0534600000         5               lib_cell   
+cfet6bp_3d/AOI211_X2w1/frame    0.0534600000         5               lib_cell   
+cfet6bp_3d/AOI22_X2w1/frame     0.0534600000         5               lib_cell   
+cfet6bp_3d/INV_X8w1/frame       0.0534600000         2               lib_cell   
+cfet6bp_3d/LATNQ_X2w1/frame     0.0534600000         3               lib_cell   
+cfet6bp_3d/LATQ_X2w1/frame      0.0534600000         3               lib_cell   
+cfet6bp_3d/NAND2_X4w1/frame     0.0534600000         3               lib_cell   
+cfet6bp_3d/NOR2_X4w1/frame      0.0534600000         3               lib_cell   
+cfet6bp_3d/OA21A1OI2_X2w1/frame 0.0534600000         5               lib_cell   
+cfet6bp_3d/OAI211_X2w1/frame    0.0534600000         5               lib_cell   
+cfet6bp_3d/OAI22_X2w1/frame     0.0534600000         5               lib_cell   
+cfet6bp_3d/MXIT2_X2w1/frame     0.0594000000         4               lib_cell   
+cfet6bp_3d/XNOR2_X2w1/frame     0.0594000000         3               lib_cell   
+cfet6bp_3d/XOR2_X2w1/frame      0.0594000000         3               lib_cell   
+cfet6bp_3d/BUF_X8w1/frame       0.0653400000         2               lib_cell   
+cfet6bp_3d/PREICG_X1w1/frame    0.0772200000         5               lib_cell   
+cfet6bp_3d/PREICG_X2w1/frame    0.0772200000         5               lib_cell   
+cfet6bp_3d/NAND3_X4w1/frame     0.0772200000         4               lib_cell   
+cfet6bp_3d/NOR3_X4w1/frame      0.0772200000         4               lib_cell   
+cfet6bp_3d/ADDF_X1w1/frame      0.0950400000         5               lib_cell   
+cfet6bp_3d/SDFFQA_X1w1/frame    0.1069200000         5               lib_cell   
+cfet6bp_3d/SDFFQA_X2w1/frame    0.1069200000         5               lib_cell   
+cfet6bp_3d/SDFFRPQA_X1w1/frame  0.1247400000         6               lib_cell   
+cfet6bp_3d/SDFFSQA_X1w1/frame   0.1247400000         6               lib_cell   
+cfet6bp_3d/SDFFRPQA_X2w1/frame  0.1247400000         6               lib_cell   
+cfet6bp_3d/SDFFSQA_X2w1/frame   0.1247400000         6               lib_cell   
+cfet6bp_3d/ADDF_X1n2/frame      0.0950400000         5               lib_cell   
+cfet6bp_3d/ADDF_X1p2/frame      0.0950400000         5               lib_cell   
+cfet6bp_3d/ADDF_X1w2/frame      0.0950400000         5               lib_cell   
+cfet6bp_3d/AND2_X1n2/frame      0.0237600000         3               lib_cell   
+cfet6bp_3d/AND2_X1p2/frame      0.0237600000         3               lib_cell   
+cfet6bp_3d/AND2_X1w2/frame      0.0237600000         3               lib_cell   
+cfet6bp_3d/AND2_X2n2/frame      0.0297000000         3               lib_cell   
+cfet6bp_3d/AND2_X2p2/frame      0.0297000000         3               lib_cell   
+cfet6bp_3d/AND2_X2w2/frame      0.0297000000         3               lib_cell   
+cfet6bp_3d/AO211_X1n2/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/AO211_X1p2/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/AO211_X1w2/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/AO211_X2n2/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/AO211_X2p2/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/AO211_X2w2/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/AO21A1AI2_X1n2/frame 0.0297000000         5               lib_cell   
+cfet6bp_3d/AO21A1AI2_X1p2/frame 0.0297000000         5               lib_cell   
+cfet6bp_3d/AO21A1AI2_X1w2/frame 0.0297000000         5               lib_cell   
+cfet6bp_3d/AO21A1AI2_X2n2/frame 0.0534600000         5               lib_cell   
+cfet6bp_3d/AO21A1AI2_X2p2/frame 0.0534600000         5               lib_cell   
+cfet6bp_3d/AO21A1AI2_X2w2/frame 0.0534600000         5               lib_cell   
+cfet6bp_3d/AO21B_X1n2/frame     0.0297000000         4               lib_cell   
+cfet6bp_3d/AO21B_X1p2/frame     0.0297000000         4               lib_cell   
+cfet6bp_3d/AO21B_X1w2/frame     0.0297000000         4               lib_cell   
+cfet6bp_3d/AO21B_X2n2/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/AO21B_X2p2/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/AO21B_X2w2/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/AO21_X1n2/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/AO21_X1p2/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/AO21_X1w2/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/AO21_X2n2/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/AO21_X2p2/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/AO21_X2w2/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/AO22_X1n2/frame      0.0356400000         5               lib_cell   
+cfet6bp_3d/AO22_X1p2/frame      0.0356400000         5               lib_cell   
+cfet6bp_3d/AO22_X1w2/frame      0.0356400000         5               lib_cell   
+cfet6bp_3d/AO22_X2n2/frame      0.0415800000         5               lib_cell   
+cfet6bp_3d/AO22_X2p2/frame      0.0415800000         5               lib_cell   
+cfet6bp_3d/AO22_X2w2/frame      0.0415800000         5               lib_cell   
+cfet6bp_3d/AOI211_X1n2/frame    0.0297000000         5               lib_cell   
+cfet6bp_3d/AOI211_X1p2/frame    0.0297000000         5               lib_cell   
+cfet6bp_3d/AOI211_X1w2/frame    0.0297000000         5               lib_cell   
+cfet6bp_3d/AOI211_X2n2/frame    0.0534600000         5               lib_cell   
+cfet6bp_3d/AOI211_X2p2/frame    0.0534600000         5               lib_cell   
+cfet6bp_3d/AOI211_X2w2/frame    0.0534600000         5               lib_cell   
+cfet6bp_3d/AOI21_X1n2/frame     0.0237600000         4               lib_cell   
+cfet6bp_3d/AOI21_X1p2/frame     0.0237600000         4               lib_cell   
+cfet6bp_3d/AOI21_X1w2/frame     0.0237600000         4               lib_cell   
+cfet6bp_3d/AOI21_X2n2/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/AOI21_X2p2/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/AOI21_X2w2/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/AOI22_X1n2/frame     0.0297000000         5               lib_cell   
+cfet6bp_3d/AOI22_X1p2/frame     0.0297000000         5               lib_cell   
+cfet6bp_3d/AOI22_X1w2/frame     0.0297000000         5               lib_cell   
+cfet6bp_3d/AOI22_X2n2/frame     0.0534600000         5               lib_cell   
+cfet6bp_3d/AOI22_X2p2/frame     0.0534600000         5               lib_cell   
+cfet6bp_3d/AOI22_X2w2/frame     0.0534600000         5               lib_cell   
+cfet6bp_3d/BUF_X1n2/frame       0.0178200000         2               lib_cell   
+cfet6bp_3d/BUF_X1p2/frame       0.0178200000         2               lib_cell   
+cfet6bp_3d/BUF_X1w2/frame       0.0178200000         2               lib_cell   
+cfet6bp_3d/BUF_X2n2/frame       0.0237600000         2               lib_cell   
+cfet6bp_3d/BUF_X2p2/frame       0.0237600000         2               lib_cell   
+cfet6bp_3d/BUF_X2w2/frame       0.0237600000         2               lib_cell   
+cfet6bp_3d/BUF_X4n2/frame       0.0356400000         2               lib_cell   
+cfet6bp_3d/BUF_X4p2/frame       0.0356400000         2               lib_cell   
+cfet6bp_3d/BUF_X4w2/frame       0.0356400000         2               lib_cell   
+cfet6bp_3d/BUF_X8n2/frame       0.0653400000         2               lib_cell   
+cfet6bp_3d/BUF_X8p2/frame       0.0653400000         2               lib_cell   
+cfet6bp_3d/BUF_X8w2/frame       0.0653400000         2               lib_cell   
+cfet6bp_3d/INV_X1n2/frame       0.0118800000         2               lib_cell   
+cfet6bp_3d/INV_X1p2/frame       0.0118800000         2               lib_cell   
+cfet6bp_3d/INV_X1w2/frame       0.0118800000         2               lib_cell   
+cfet6bp_3d/INV_X2n2/frame       0.0178200000         2               lib_cell   
+cfet6bp_3d/INV_X2p2/frame       0.0178200000         2               lib_cell   
+cfet6bp_3d/INV_X2w2/frame       0.0178200000         2               lib_cell   
+cfet6bp_3d/INV_X4n2/frame       0.0297000000         2               lib_cell   
+cfet6bp_3d/INV_X4p2/frame       0.0297000000         2               lib_cell   
+cfet6bp_3d/INV_X4w2/frame       0.0297000000         2               lib_cell   
+cfet6bp_3d/INV_X8n2/frame       0.0534600000         2               lib_cell   
+cfet6bp_3d/INV_X8p2/frame       0.0534600000         2               lib_cell   
+cfet6bp_3d/INV_X8w2/frame       0.0534600000         2               lib_cell   
+cfet6bp_3d/LATNQ_X1n2/frame     0.0534600000         3               lib_cell   
+cfet6bp_3d/LATNQ_X1p2/frame     0.0534600000         3               lib_cell   
+cfet6bp_3d/LATNQ_X1w2/frame     0.0534600000         3               lib_cell   
+cfet6bp_3d/LATNQ_X2n2/frame     0.0534600000         3               lib_cell   
+cfet6bp_3d/LATNQ_X2p2/frame     0.0534600000         3               lib_cell   
+cfet6bp_3d/LATNQ_X2w2/frame     0.0534600000         3               lib_cell   
+cfet6bp_3d/LATQ_X1n2/frame      0.0534600000         3               lib_cell   
+cfet6bp_3d/LATQ_X1p2/frame      0.0534600000         3               lib_cell   
+cfet6bp_3d/LATQ_X1w2/frame      0.0534600000         3               lib_cell   
+cfet6bp_3d/LATQ_X2n2/frame      0.0534600000         3               lib_cell   
+cfet6bp_3d/LATQ_X2p2/frame      0.0534600000         3               lib_cell   
+cfet6bp_3d/LATQ_X2w2/frame      0.0534600000         3               lib_cell   
+cfet6bp_3d/MXIT2_X1n2/frame     0.0356400000         4               lib_cell   
+cfet6bp_3d/MXIT2_X1p2/frame     0.0356400000         4               lib_cell   
+cfet6bp_3d/MXIT2_X1w2/frame     0.0356400000         4               lib_cell   
+cfet6bp_3d/MXIT2_X2n2/frame     0.0594000000         4               lib_cell   
+cfet6bp_3d/MXIT2_X2p2/frame     0.0594000000         4               lib_cell   
+cfet6bp_3d/MXIT2_X2w2/frame     0.0594000000         4               lib_cell   
+cfet6bp_3d/MXT2_X1n2/frame      0.0415800000         4               lib_cell   
+cfet6bp_3d/MXT2_X1p2/frame      0.0415800000         4               lib_cell   
+cfet6bp_3d/MXT2_X1w2/frame      0.0415800000         4               lib_cell   
+cfet6bp_3d/MXT2_X2n2/frame      0.0475200000         4               lib_cell   
+cfet6bp_3d/MXT2_X2p2/frame      0.0475200000         4               lib_cell   
+cfet6bp_3d/MXT2_X2w2/frame      0.0475200000         4               lib_cell   
+cfet6bp_3d/NAND2B_X1n2/frame    0.0237600000         3               lib_cell   
+cfet6bp_3d/NAND2B_X1p2/frame    0.0237600000         3               lib_cell   
+cfet6bp_3d/NAND2B_X1w2/frame    0.0237600000         3               lib_cell   
+cfet6bp_3d/NAND2B_X2n2/frame    0.0356400000         3               lib_cell   
+cfet6bp_3d/NAND2B_X2p2/frame    0.0356400000         3               lib_cell   
+cfet6bp_3d/NAND2B_X2w2/frame    0.0356400000         3               lib_cell   
+cfet6bp_3d/NAND2_X1n2/frame     0.0178200000         3               lib_cell   
+cfet6bp_3d/NAND2_X1p2/frame     0.0178200000         3               lib_cell   
+cfet6bp_3d/NAND2_X1w2/frame     0.0178200000         3               lib_cell   
+cfet6bp_3d/NAND2_X2n2/frame     0.0297000000         3               lib_cell   
+cfet6bp_3d/NAND2_X2p2/frame     0.0297000000         3               lib_cell   
+cfet6bp_3d/NAND2_X2w2/frame     0.0297000000         3               lib_cell   
+cfet6bp_3d/NAND2_X4n2/frame     0.0534600000         3               lib_cell   
+cfet6bp_3d/NAND2_X4p2/frame     0.0534600000         3               lib_cell   
+cfet6bp_3d/NAND2_X4w2/frame     0.0534600000         3               lib_cell   
+cfet6bp_3d/NAND3_X1n2/frame     0.0237600000         4               lib_cell   
+cfet6bp_3d/NAND3_X1p2/frame     0.0237600000         4               lib_cell   
+cfet6bp_3d/NAND3_X1w2/frame     0.0237600000         4               lib_cell   
+cfet6bp_3d/NAND3_X2n2/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/NAND3_X2p2/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/NAND3_X2w2/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/NAND3_X4n2/frame     0.0772200000         4               lib_cell   
+cfet6bp_3d/NAND3_X4p2/frame     0.0772200000         4               lib_cell   
+cfet6bp_3d/NAND3_X4w2/frame     0.0772200000         4               lib_cell   
+cfet6bp_3d/NOR2B_X1n2/frame     0.0237600000         3               lib_cell   
+cfet6bp_3d/NOR2B_X1p2/frame     0.0237600000         3               lib_cell   
+cfet6bp_3d/NOR2B_X1w2/frame     0.0237600000         3               lib_cell   
+cfet6bp_3d/NOR2B_X2n2/frame     0.0356400000         3               lib_cell   
+cfet6bp_3d/NOR2B_X2p2/frame     0.0356400000         3               lib_cell   
+cfet6bp_3d/NOR2B_X2w2/frame     0.0356400000         3               lib_cell   
+cfet6bp_3d/NOR2_X1n2/frame      0.0178200000         3               lib_cell   
+cfet6bp_3d/NOR2_X1p2/frame      0.0178200000         3               lib_cell   
+cfet6bp_3d/NOR2_X1w2/frame      0.0178200000         3               lib_cell   
+cfet6bp_3d/NOR2_X2n2/frame      0.0297000000         3               lib_cell   
+cfet6bp_3d/NOR2_X2p2/frame      0.0297000000         3               lib_cell   
+cfet6bp_3d/NOR2_X2w2/frame      0.0297000000         3               lib_cell   
+cfet6bp_3d/NOR2_X4n2/frame      0.0534600000         3               lib_cell   
+cfet6bp_3d/NOR2_X4p2/frame      0.0534600000         3               lib_cell   
+cfet6bp_3d/NOR2_X4w2/frame      0.0534600000         3               lib_cell   
+cfet6bp_3d/NOR3_X1n2/frame      0.0237600000         4               lib_cell   
+cfet6bp_3d/NOR3_X1p2/frame      0.0237600000         4               lib_cell   
+cfet6bp_3d/NOR3_X1w2/frame      0.0237600000         4               lib_cell   
+cfet6bp_3d/NOR3_X2n2/frame      0.0415800000         4               lib_cell   
+cfet6bp_3d/NOR3_X2p2/frame      0.0415800000         4               lib_cell   
+cfet6bp_3d/NOR3_X2w2/frame      0.0415800000         4               lib_cell   
+cfet6bp_3d/NOR3_X4n2/frame      0.0772200000         4               lib_cell   
+cfet6bp_3d/NOR3_X4p2/frame      0.0772200000         4               lib_cell   
+cfet6bp_3d/NOR3_X4w2/frame      0.0772200000         4               lib_cell   
+cfet6bp_3d/OA211_X1n2/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/OA211_X1p2/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/OA211_X1w2/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/OA211_X2n2/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/OA211_X2p2/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/OA211_X2w2/frame     0.0415800000         5               lib_cell   
+cfet6bp_3d/OA21A1OI2_X1n2/frame 0.0297000000         5               lib_cell   
+cfet6bp_3d/OA21A1OI2_X1p2/frame 0.0297000000         5               lib_cell   
+cfet6bp_3d/OA21A1OI2_X1w2/frame 0.0297000000         5               lib_cell   
+cfet6bp_3d/OA21A1OI2_X2n2/frame 0.0534600000         5               lib_cell   
+cfet6bp_3d/OA21A1OI2_X2p2/frame 0.0534600000         5               lib_cell   
+cfet6bp_3d/OA21A1OI2_X2w2/frame 0.0534600000         5               lib_cell   
+cfet6bp_3d/OA21B_X1n2/frame     0.0297000000         4               lib_cell   
+cfet6bp_3d/OA21B_X1p2/frame     0.0297000000         4               lib_cell   
+cfet6bp_3d/OA21B_X1w2/frame     0.0297000000         4               lib_cell   
+cfet6bp_3d/OA21B_X2n2/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/OA21B_X2p2/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/OA21B_X2w2/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/OA21_X1n2/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/OA21_X1p2/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/OA21_X1w2/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/OA21_X2n2/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/OA21_X2p2/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/OA21_X2w2/frame      0.0356400000         4               lib_cell   
+cfet6bp_3d/OA22_X1n2/frame      0.0356400000         5               lib_cell   
+cfet6bp_3d/OA22_X1p2/frame      0.0356400000         5               lib_cell   
+cfet6bp_3d/OA22_X1w2/frame      0.0356400000         5               lib_cell   
+cfet6bp_3d/OA22_X2n2/frame      0.0415800000         5               lib_cell   
+cfet6bp_3d/OA22_X2p2/frame      0.0415800000         5               lib_cell   
+cfet6bp_3d/OA22_X2w2/frame      0.0415800000         5               lib_cell   
+cfet6bp_3d/OAI211_X1n2/frame    0.0297000000         5               lib_cell   
+cfet6bp_3d/OAI211_X1p2/frame    0.0297000000         5               lib_cell   
+cfet6bp_3d/OAI211_X1w2/frame    0.0297000000         5               lib_cell   
+cfet6bp_3d/OAI211_X2n2/frame    0.0534600000         5               lib_cell   
+cfet6bp_3d/OAI211_X2p2/frame    0.0534600000         5               lib_cell   
+cfet6bp_3d/OAI211_X2w2/frame    0.0534600000         5               lib_cell   
+cfet6bp_3d/OAI21_X1n2/frame     0.0237600000         4               lib_cell   
+cfet6bp_3d/OAI21_X1p2/frame     0.0237600000         4               lib_cell   
+cfet6bp_3d/OAI21_X1w2/frame     0.0237600000         4               lib_cell   
+cfet6bp_3d/OAI21_X2n2/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/OAI21_X2p2/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/OAI21_X2w2/frame     0.0415800000         4               lib_cell   
+cfet6bp_3d/OAI22_X1n2/frame     0.0297000000         5               lib_cell   
+cfet6bp_3d/OAI22_X1p2/frame     0.0297000000         5               lib_cell   
+cfet6bp_3d/OAI22_X1w2/frame     0.0297000000         5               lib_cell   
+cfet6bp_3d/OAI22_X2n2/frame     0.0534600000         5               lib_cell   
+cfet6bp_3d/OAI22_X2p2/frame     0.0534600000         5               lib_cell   
+cfet6bp_3d/OAI22_X2w2/frame     0.0534600000         5               lib_cell   
+cfet6bp_3d/OR2_X1n2/frame       0.0237600000         3               lib_cell   
+cfet6bp_3d/OR2_X1p2/frame       0.0237600000         3               lib_cell   
+cfet6bp_3d/OR2_X1w2/frame       0.0237600000         3               lib_cell   
+cfet6bp_3d/OR2_X2n2/frame       0.0297000000         3               lib_cell   
+cfet6bp_3d/OR2_X2p2/frame       0.0297000000         3               lib_cell   
+cfet6bp_3d/OR2_X2w2/frame       0.0297000000         3               lib_cell   
+cfet6bp_3d/PREICG_X1n2/frame    0.0772200000         5               lib_cell   
+cfet6bp_3d/PREICG_X1p2/frame    0.0772200000         5               lib_cell   
+cfet6bp_3d/PREICG_X1w2/frame    0.0772200000         5               lib_cell   
+cfet6bp_3d/PREICG_X2n2/frame    0.0772200000         5               lib_cell   
+cfet6bp_3d/PREICG_X2p2/frame    0.0772200000         5               lib_cell   
+cfet6bp_3d/PREICG_X2w2/frame    0.0772200000         5               lib_cell   
+cfet6bp_3d/SDFFQA_X1n2/frame    0.1069200000         5               lib_cell   
+cfet6bp_3d/SDFFQA_X1p2/frame    0.1069200000         5               lib_cell   
+cfet6bp_3d/SDFFQA_X1w2/frame    0.1069200000         5               lib_cell   
+cfet6bp_3d/SDFFQA_X2n2/frame    0.1069200000         5               lib_cell   
+cfet6bp_3d/SDFFQA_X2p2/frame    0.1069200000         5               lib_cell   
+cfet6bp_3d/SDFFQA_X2w2/frame    0.1069200000         5               lib_cell   
+cfet6bp_3d/SDFFRPQA_X1n2/frame  0.1247400000         6               lib_cell   
+cfet6bp_3d/SDFFRPQA_X1p2/frame  0.1247400000         6               lib_cell   
+cfet6bp_3d/SDFFRPQA_X1w2/frame  0.1247400000         6               lib_cell   
+cfet6bp_3d/SDFFRPQA_X2n2/frame  0.1247400000         6               lib_cell   
+cfet6bp_3d/SDFFRPQA_X2p2/frame  0.1247400000         6               lib_cell   
+cfet6bp_3d/SDFFRPQA_X2w2/frame  0.1247400000         6               lib_cell   
+cfet6bp_3d/SDFFSQA_X1n2/frame   0.1247400000         6               lib_cell   
+cfet6bp_3d/SDFFSQA_X1p2/frame   0.1247400000         6               lib_cell   
+cfet6bp_3d/SDFFSQA_X1w2/frame   0.1247400000         6               lib_cell   
+cfet6bp_3d/SDFFSQA_X2n2/frame   0.1247400000         6               lib_cell   
+cfet6bp_3d/SDFFSQA_X2p2/frame   0.1247400000         6               lib_cell   
+cfet6bp_3d/SDFFSQA_X2w2/frame   0.1247400000         6               lib_cell   
+cfet6bp_3d/XNOR2_X1n2/frame     0.0356400000         3               lib_cell   
+cfet6bp_3d/XNOR2_X1p2/frame     0.0356400000         3               lib_cell   
+cfet6bp_3d/XNOR2_X1w2/frame     0.0356400000         3               lib_cell   
+cfet6bp_3d/XNOR2_X2n2/frame     0.0594000000         3               lib_cell   
+cfet6bp_3d/XNOR2_X2p2/frame     0.0594000000         3               lib_cell   
+cfet6bp_3d/XNOR2_X2w2/frame     0.0594000000         3               lib_cell   
+cfet6bp_3d/XOR2_X1n2/frame      0.0356400000         3               lib_cell   
+cfet6bp_3d/XOR2_X1p2/frame      0.0356400000         3               lib_cell   
+cfet6bp_3d/XOR2_X1w2/frame      0.0356400000         3               lib_cell   
+cfet6bp_3d/XOR2_X2n2/frame      0.0594000000         3               lib_cell   
+cfet6bp_3d/XOR2_X2p2/frame      0.0594000000         3               lib_cell   
+cfet6bp_3d/XOR2_X2w2/frame      0.0594000000         3               lib_cell   
+cfet6bp_3d/ANCHOR_BOT/frame     0.0006600000         2               lib_cell   
+cfet6bp_3d/ANCHOR_TOP/frame     0.0006600000         2               lib_cell   
+1
